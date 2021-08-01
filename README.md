@@ -8,4 +8,8 @@ Some description!
 
 Add something
 
+<<<<<<< HEAD
 test-1 !
+=======
+test-1
+>>>>>>> refs/remotes/origin/main
